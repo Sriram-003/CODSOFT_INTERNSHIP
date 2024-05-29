@@ -10,6 +10,6 @@ Task-2 : Implement an AI agent that plays the classic game of Tic-Tac-Toeagainst
 Player 1 - 'X' Human
 Player 2 - 'O' AI
 This Game is played by an unbeatable AI, this ai use minimax Alpha beta purning technique to make move. It check all th possible move before place the 'O' in the board.
-If the eval = 0 - It move the 'O' in random
-If the eval = 1 - It move the 'O' to stop the 'X' to win the game
-If the eval = -1 - It move the 'O' that make the Ai to win the game
+If the eval = 0 - It move the 'O' in random place.
+If the eval = 1 - It move the 'O' to stop the 'X' to win the game.
+If the eval = -1 - It move the 'O' that make the Ai to win the game.
