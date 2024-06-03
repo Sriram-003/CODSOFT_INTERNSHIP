@@ -13,3 +13,8 @@ This Game is played by an unbeatable AI, this ai use minimax Alpha beta purning 
 If the eval = 0 - It move the 'O' in random place.
 If the eval = 1 - It move the 'O' to stop the 'X' to win the game.
 If the eval = -1 - It move the 'O' that make the Ai to win the game.
+
+# RECOMMENDATION SYSTEM
+Task-4: Create a simple recommendation system that suggests items tousers based on their preferences. You can use techniques likecollaborative filtering or content-based filtering to recommendmovies, books, or products to users.
+This Recommendation system is based on the Content-based Filtering techniques to filter the movie name and recommend the movie for the user.
+It recommend the movie name based on the director, movie name and the actors who act in the movie this data is taken from the movie dataset.
